@@ -5,11 +5,11 @@ This assignment is the second of five, to walk through the Project Setup process
 
 
 #### CallanLove Project SetUp Launch
-![CallanLove Project SetUp Launch](...)
+![CallanLove Project SetUp Launch](https://raw.githubusercontent.com/SMITHsharon/projectSetup2/screens/screens/CallanLove%20on%20Launch.png)
 
 
 #### CallanLove on Click
-![CallanLove on Click](...)
+![CallanLove on Click](https://raw.githubusercontent.com/SMITHsharon/projectSetup2/screens/screens/CallanLove%20on%20Click.png)
 
 
 ### Project Specs
