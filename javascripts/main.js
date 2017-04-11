@@ -1,6 +1,6 @@
 
 //***************************************************
-// event listener for <thisMuch> button
+// event listener for <thisMuch^2> button
 //***************************************************
 $("#callan").click(function (){
 
