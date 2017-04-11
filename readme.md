@@ -38,7 +38,7 @@ This assignment is the second of five, to walk through the Project Setup process
 ### How To View The Screen 
 #### (Node must be installed on your machine):
 ```
-git clone https://github.com/SMITHsharon/projectSetup1.git
+git clone https://github.com/SMITHsharon/projectSetup2.git
 cd projectSetup1
 cd lib
 bower install
