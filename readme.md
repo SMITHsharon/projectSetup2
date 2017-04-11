@@ -23,7 +23,7 @@ This assignment is the second of five, to walk through the Project Setup process
 - Created a `.gitignore` file
 - Created `Gruntfile.js`
 - Committed all to GitHub, and merged in the Project SetUp
-- Ran `Grunt` in the background in a separate terminal window while developing the ZoeLove application
+- Ran `Grunt` in the background in a separate terminal window while developing the CallanLove application
 
 
 ### Technologies Used
